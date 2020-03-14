@@ -1,0 +1,11 @@
+C:\Users\Pritesh\Desktop\gameServer\bin\Debug\netcoreapp3.1\gameServer.exe
+C:\Users\Pritesh\Desktop\gameServer\bin\Debug\netcoreapp3.1\gameServer.deps.json
+C:\Users\Pritesh\Desktop\gameServer\bin\Debug\netcoreapp3.1\gameServer.runtimeconfig.json
+C:\Users\Pritesh\Desktop\gameServer\bin\Debug\netcoreapp3.1\gameServer.runtimeconfig.dev.json
+C:\Users\Pritesh\Desktop\gameServer\bin\Debug\netcoreapp3.1\gameServer.dll
+C:\Users\Pritesh\Desktop\gameServer\bin\Debug\netcoreapp3.1\gameServer.pdb
+C:\Users\Pritesh\Desktop\gameServer\obj\Debug\netcoreapp3.1\gameServer.csprojAssemblyReference.cache
+C:\Users\Pritesh\Desktop\gameServer\obj\Debug\netcoreapp3.1\gameServer.AssemblyInfoInputs.cache
+C:\Users\Pritesh\Desktop\gameServer\obj\Debug\netcoreapp3.1\gameServer.AssemblyInfo.cs
+C:\Users\Pritesh\Desktop\gameServer\obj\Debug\netcoreapp3.1\gameServer.dll
+C:\Users\Pritesh\Desktop\gameServer\obj\Debug\netcoreapp3.1\gameServer.pdb
